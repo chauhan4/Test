@@ -28,6 +28,7 @@ String Ruby="",selecto;
     public static String random()
     {
     String pass="";
+     String l="";
     String ch="qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM0987654321@&$";
     int length=3;
     for(int x=0;x<length;x++){
